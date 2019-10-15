@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "title": "Graphic Design",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "230",
+        "author": "Sergui Morejon"
+    },
+    {
+        "id": 2,
+        "title": "Web Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "569",
+        "author": "Gabriel Morejon"
+    },
+    {
+        "id": 3,
+        "title": "Mobile Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "123",
+        "author": "Lucas Lopez"
+    },
+    {
+        "id": 4,
+        "title": "Writting",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "300",
+        "author": "Rafael Romero"
+    },
+    {
+        "id": 5,
+        "title": "English",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "100",
+        "author": "Miguel Urgiles"
+    },
+    {
+        "id": 6,
+        "title": "Electrical Technician",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "84",
+        "author": "Indira Suarez"
+    },
+    {
+        "id": 7,
+        "title": "Chef",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "34",
+        "author": "Diego Moran"
+    },
+    {
+        "id": 8,
+        "title": "Databse Modeling",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "56",
+        "author": "Alejandra Martinez"
+    },
+    {
+        "id": 9,
+        "title": "Baby sitter",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "133",
+        "author": "Martin Guevara"
+    },
+    {
+        "id": 10,
+        "title": "Lawyer",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "93",
+        "author": "Marie Gonzalez"
+    },
+    {
+        "id": 11,
+        "title": "Teacher",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "14",
+        "author": "Bianca Pimentel"
+    },
+    {
+        "id": 12,
+        "title": "Psychologist",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "44",
+        "author": "Ricardo Reyes"
+    },
+    {
+        "id": 13,
+        "title": "Plumber",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quasi reiciendis repellendus expedita cumque sit facere rerum, perferendis debitis est, architecto doloremque dolores eius, commodi vero. Amet quo ratione deleniti!",
+        "price": "55",
+        "author": "Fernando Cucalon"
+    }
+]
