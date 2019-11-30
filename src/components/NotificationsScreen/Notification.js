@@ -1,25 +1,35 @@
 import React from 'react';
 import { TouchableOpacity, View, StyleSheet } from 'react-native';
-import { Avatar, Text, Card } from 'react-native-elements';
+import { Card, Avatar, Text } from 'react-native-elements';
 
-function Message (props) {
-    const name = "S"
-    const lastname = "M"
+function Notification(props) {
     return (
         <TouchableOpacity>
             <Card containerStyle={styles.cardContainer}>
                 <View style={styles.messageBox}>
                     <View>
-                        <Avatar rounded title={`${name}${lastname}`} />
+                        <Avatar rounded title={props.sender} />
                     </View>
+
                     <View style={styles.textContainer}>
-                        <Text h4 h4Style={styles.personName}>{props.author}</Text>
-                        <Text numberOfLines={2}>{props.description}</Text>
+                        <Text h4 h4Style={styles.subjectText}>{renderSubject(props.subject, props.sender)}</Text>
+                        <Text numberOfLines={2}>{props.content}</Text>
                     </View>
                 </View>
             </Card>
         </TouchableOpacity>
     )
+}
+
+function renderSubject(subject, sender) {
+    switch(subject) {
+        case 'Discount':
+            return 'Discount'
+        break;
+        case 'Question':
+            return `${sender} asked you a question`
+        break;
+    }
 }
 
 const styles = StyleSheet.create({
@@ -38,10 +48,10 @@ const styles = StyleSheet.create({
         flex: 1, 
         marginLeft: 15
     },
-    personName: {
+    subjectText: {
         fontSize: 16, 
         fontWeight: 'bold'
     }
 })
 
-export default Message
+export default Notification;

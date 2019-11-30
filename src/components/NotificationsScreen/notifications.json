@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "sender": "App",
+        "subject": "Discount",
+        "content": "Get 20% off your first order!\nUse promo code: SERVICES123"
+    },
+    {
+        "id": "2",
+        "sender": "Fabricio",
+        "subject": "Question",
+        "content": "I am interested in your service. Could you please use Node.js instead of Java ?"
+    }
+]
